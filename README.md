@@ -1,4 +1,4 @@
-# 2019 Esri Developer Summit - Speedgeeking Event
+# 2019 Esri Developer Summit - SpeedGeeking
 ## Screenshots with the ArcGIS API for JavaScript & html2Canvas
 
 ### Blog post:
